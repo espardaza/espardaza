@@ -1,5 +1,12 @@
-<h1 align="center">Hi , I'm Espa</h1>
-<h3 align="center">A night owl from Nowhere</h3>
+<div align="center">
+<table border="1">
+  <tr>
+    <td style="border: 2px solid #6495ED; border-radius: 10px; padding: 10px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Espa;A+night+owl+from+Nowhere;Welcome+to+my+Github!" alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
+</div>
 
 <div align="center"><img width="500" src="https://cdn.dribbble.com/userupload/23624543/file/original-ba414112992bda7ed15d6f597b01948a.gif"></div>
 
