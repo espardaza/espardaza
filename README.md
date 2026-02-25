@@ -6,6 +6,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/espardaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="espardaza" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61588031335661" target="blank"><img align="center" src="https://github.com/user-attachments/assets/0d84eb33-f683-462c-85a4-d5648c0d1755" alt="espardaza" height="30" width="30" /></a>
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -30,4 +32,4 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-
+</p>
