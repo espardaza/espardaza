@@ -2,7 +2,7 @@
 <table border="1">
   <tr>
     <td style="border: 2px solid #6495ED; border-radius: 10px; padding: 10px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&weight=700&size=35&duration=2700&pause=800&color=6495ED&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Espa;A+night+owl+from+Nowhere;Welcome+to+my+Github!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=30&duration=2700&pause=800&color=6495ED&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Espa;A+night+owl+from+Nowhere;Welcome+to+my+Github!" alt="Typing SVG" />
     </td>
   </tr>
 </table>
