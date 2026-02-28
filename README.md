@@ -45,6 +45,5 @@
 <h3 align="center">Github Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=espardaza&theme=dark&stroke=6495ED&ring=6495ED&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=6495ED&sideNums=FFFFFF&sideLabels=6495ED&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=espardaza&theme=dark&background=001F75&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
 </div>
-
