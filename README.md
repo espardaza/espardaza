@@ -6,10 +6,10 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-<div align="center">
+<div align="center" style="color: #1C1A2E">
 <table border="1">
   <tr>
-    <td style="border: 2px solid #E6DD74; border-radius: 10px; padding: 10px;">
+    <td style="border: 2px; border-radius: 10px; padding: 10px;">
       <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=30&duration=2700&pause=800&color=E6DD74&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Espa;A+night+owl+from+Nowhere;Welcome+to+my+Github!" alt="Typing SVG" />
     </td>
   </tr>
