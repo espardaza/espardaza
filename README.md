@@ -1,4 +1,3 @@
-<div style="background-color: #000000; color: #FFFFFF;">
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
@@ -10,14 +9,14 @@
 <div align="center">
 <table border="1">
   <tr>
-    <td style="border: 2px solid #6495ED; border-radius: 10px; padding: 10px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=30&duration=2700&pause=800&color=6495ED&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Espa;A+night+owl+from+Nowhere;Welcome+to+my+Github!" alt="Typing SVG" />
+    <td style="border: 2px solid #E6DD74; border-radius: 10px; padding: 10px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=30&duration=2700&pause=800&color=E6DD74&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Espa;A+night+owl+from+Nowhere;Welcome+to+my+Github!" alt="Typing SVG" />
     </td>
   </tr>
 </table>
 </div>
 
-<div align="center"><img width="500" src="https://cdn.dribbble.com/userupload/23624543/file/original-ba414112992bda7ed15d6f597b01948a.gif"></div>
+<div align="center"><img width="500" src="https://cdn.dribbble.com/userupload/21605255/file/original-109c9afa5ffcbd17a9efc9bc0930364d.gif"></div>
 
 <h3 align="center" style="color: #FFFFFF;">Connect with me</h3>
 <p align="center">
@@ -53,19 +52,19 @@
 <h3 align="center" style="color: #FFFFFF;">Github Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=espardaza&theme=dark&background=000000&stroke=d0ceff&ring=d0ceff&fire=7872ff&currStreakNum=d0ceff&currStreakLabel=7872ff&sideNums=d0ceff&sideLabels=d0ceff&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=espardaza&theme=dark&background=1C1A2E&stroke=d0ceff&ring=d0ceff&fire=7872ff&currStreakNum=d0ceff&currStreakLabel=7872ff&sideNums=d0ceff&sideLabels=d0ceff&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <p></p>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espardaza&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=00FFFF&icon_color=00FFFF" alt="Top Langs" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espardaza&layout=compact&bg_color=1C1A2E&text_color=FFFFFF&title_color=d0ceff&icon_color=00FFFF" alt="Top Langs" />
 </div>
 
 <p></p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=espardaza&bg_color=000000&color=d0ceff&line=6495ED&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=espardaza&bg_color=1C1A2E&color=d0ceff&line=6495ED&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
@@ -75,4 +74,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
-</div>
+
