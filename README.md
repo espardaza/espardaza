@@ -58,7 +58,7 @@
 <p></p>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espardaza&layout=compact&bg_color=1C1A2E&text_color=FFFFFF&title_color=d0ceff&icon_color=00FFFF" alt="Top Langs" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espardaza&layout=compact&bg_color=3E3D58&text_color=FFFFFF&title_color=d0ceff&icon_color=00FFFF" alt="Top Langs" />
 </div>
 
 <p></p>
