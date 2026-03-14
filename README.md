@@ -1,3 +1,4 @@
+<div style="background-color: #000000; color: #FFFFFF;">
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
@@ -18,14 +19,14 @@
 
 <div align="center"><img width="500" src="https://cdn.dribbble.com/userupload/23624543/file/original-ba414112992bda7ed15d6f597b01948a.gif"></div>
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center" style="color: #FFFFFF;">Connect with me</h3>
 <p align="center">
 <a href="https://instagram.com/espardaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="espardaza" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=61588031335661" target="blank"><img align="center" src="https://github.com/user-attachments/assets/0d84eb33-f683-462c-85a4-d5648c0d1755" alt="espardaza" height="30" width="30" /></a>
 
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center" style="color: #FFFFFF;">Languages and Tools</h3>
 <p align="center"> 
 <img src="https://github.com/user-attachments/assets/19c23a5a-d462-4421-ae0b-4e3f9b79cd4d" alt="javascript" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
@@ -49,7 +50,7 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </p>
 
-<h3 align="center">Github Stats</h3>
+<h3 align="center" style="color: #FFFFFF;">Github Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=espardaza&theme=dark&background=000000&stroke=d0ceff&ring=d0ceff&fire=7872ff&currStreakNum=d0ceff&currStreakLabel=7872ff&sideNums=d0ceff&sideLabels=d0ceff&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
@@ -74,4 +75,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
-
+</div>
