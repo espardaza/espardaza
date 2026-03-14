@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
+
 <div align="center">
 <table border="1">
   <tr>
@@ -7,7 +15,6 @@
   </tr>
 </table>
 </div>
-
 
 <div align="center"><img width="500" src="https://cdn.dribbble.com/userupload/23624543/file/original-ba414112992bda7ed15d6f597b01948a.gif"></div>
 
@@ -47,3 +54,24 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=espardaza&theme=dark&background=001F75&stroke=d0ceff&ring=d0ceff&fire=7872ff&currStreakNum=d0ceff&currStreakLabel=7872ff&sideNums=d0ceff&sideLabels=d0ceff&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<p></p>
+
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espardaza&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=00FFFF&icon_color=00FFFF" alt="Top Langs" />
+</div>
+
+<p></p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=espardaza&bg_color=001F75&color=d0ceff&line=7872ff&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
+
