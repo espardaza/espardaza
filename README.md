@@ -52,7 +52,7 @@
 <h3 align="center">Github Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=espardaza&theme=dark&background=001F75&stroke=d0ceff&ring=d0ceff&fire=7872ff&currStreakNum=d0ceff&currStreakLabel=7872ff&sideNums=d0ceff&sideLabels=d0ceff&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=espardaza&theme=dark&background=000000&stroke=d0ceff&ring=d0ceff&fire=7872ff&currStreakNum=d0ceff&currStreakLabel=7872ff&sideNums=d0ceff&sideLabels=d0ceff&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <p></p>
@@ -64,7 +64,7 @@
 <p></p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=espardaza&bg_color=001F75&color=d0ceff&line=7872ff&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=espardaza&bg_color=000000&color=d0ceff&line=6495ED&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
