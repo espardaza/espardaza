@@ -52,7 +52,7 @@
 <h3 align="center" style="color: #FFFFFF;">Github Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=espardaza&theme=dark&background=1C1A2E&stroke=d0ceff&ring=d0ceff&fire=7872ff&currStreakNum=d0ceff&currStreakLabel=7872ff&sideNums=d0ceff&sideLabels=d0ceff&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=espardaza&theme=dark&background=1C1A2E&stroke=d0ceff&ring=d0ceff&fire=5D88DA&currStreakNum=d0ceff&currStreakLabel=5D88DA&sideNums=d0ceff&sideLabels=d0ceff&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <p></p>
